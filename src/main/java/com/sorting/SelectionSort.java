@@ -22,7 +22,7 @@ import java.util.Arrays;
  * Thus the array is sorted in non-decreasing order.
  */
 
-public class Sorting {
+public class SelectionSort {
 
 	public int[] selectionSort(int[] nums) {
 
@@ -51,7 +51,7 @@ public class Sorting {
 
 	public static void main(String[] args) {
 
-		Sorting sorting = new Sorting();
+		SelectionSort sorting = new SelectionSort();
 		int[] nums = { 7, 4, 1, 5, 3 };
 		sorting.selectionSort(nums);
 		Arrays.stream(nums).forEach(x -> System.out.print(x+" "));
