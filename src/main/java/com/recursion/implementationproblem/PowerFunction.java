@@ -1,4 +1,4 @@
-package com.recursion;
+package com.recursion.implementationproblem;
 
 /**
  * Implement the power function pow(x, n) , which calculates the x raised to n
