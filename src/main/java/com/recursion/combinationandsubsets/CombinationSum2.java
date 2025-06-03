@@ -1,4 +1,4 @@
-package com.recursion.combinationandsusets;
+package com.recursion.combinationandsubsets;
 
 import java.util.ArrayList;
 import java.util.Arrays;
